@@ -3,4 +3,4 @@
 
 
 # Deployement
-cartplus.netlify.app
+https://cartplus.netlify.app
